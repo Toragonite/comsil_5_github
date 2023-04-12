@@ -1,3 +1,4 @@
+HI my name is nobita. Its my first time to use GitHub!
 
 SOGANG@DESKTOP-0HBUQU7 MINGW64 ~/Desktop/EX (master)
 $ git remote add origin https://github.com/Toragonite/comsil_5_github.git
